@@ -39,19 +39,10 @@ Aplikasi dideploy menggunakan **Vercel**.
 
 ### Link Deployment:
 
-👉 **<Isi link Vercel / Netlify kalian di sini>**
+👉 **https://cvkuu.vercel.app/**
 
 ## 6. Screenshot Tampilan
-
-Tambahkan minimal 2–3 screenshot tampilan aplikasi kalian di bagian ini.
-
-* Tampilan Profile
-* Tampilan Skills
-* Tampilan Experiences
-
-(Upload screenshot di folder repo lalu masukkan link-nya atau drag ke README.)
-
----
+**"screenshot.png"**
 
 ## 7. Fitur Utama
 
@@ -60,8 +51,6 @@ Tambahkan minimal 2–3 screenshot tampilan aplikasi kalian di bagian ini.
 * UI modern dan responsif
 * Komponen modular dan rapi
 * Akses deployment publik
-
----
 
 ## 8. Identitas Pembuat
 
