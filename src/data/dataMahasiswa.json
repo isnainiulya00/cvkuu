@@ -1,0 +1,89 @@
+{
+  "id": 12,
+  "slug": "isnaini ulyatul faizah-l200239192",
+
+  "profile": {
+    "full_name": "Isnaini Ulyatul Faizah",
+    "nim": "L200239192",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2023",
+    "photo_url": "/image/profil.JPG",
+    "headline": "Fullstack Web Developer | React & Django Enthusiast",
+    "short_bio": "Mahasiswa UMS dengan minat pada pengembangan web fullstack.",
+    "location": "Surakarta, Jawa Tengah",
+    "portfolio_url": "https://github.com/isnainiulya00"
+  },
+
+  "skills": [
+    {
+      "id": 1,
+      "name": "ReactJS",
+      "category": "technical",
+      "level": "advanced",
+      "is_main": true,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "id": 2,
+      "name": "Django REST Framework",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": true,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+    },
+    {
+      "id": 3,
+      "name": "Python",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": true,
+      "years_of_experience": 2,
+      "icon_url": "/image/python.jpg                                                                        "
+    }
+  ],
+
+  "experiences": [
+  {
+    "id": 101,
+    "title": "Secretary of the Organizational Division",
+    "organization": "PK IMM Adam Malik",
+    "experience_type": "organization",
+    "start_date": "2024-01-01",
+    "end_date": "2025-12-31",
+    "is_current": true,
+    "description": "Handled all administrative processes within the organizational division and ensured operational stability through effective documentation and coordination.",
+    "technologies": ["Teamwork", "Problem Solving", "Microsoft Word"],
+    "image_url": "https://i.imgur.com/oJnA9kZ.jpeg"
+  },
+  {
+    "id": 102,
+    "title": "Member of the Organizational Division",
+    "organization": "PK IMM Adam Malik",
+    "experience_type": "organization",
+    "start_date": "2025-01-01",
+    "end_date": null,
+    "is_current": true,
+    "description": "Assisted in managing organizational administration and supported efforts to maintain structure and stability within the division.",
+    "technologies": ["Teamwork", "Problem Solving", "Microsoft Word"],
+    "image_url": "https://i.imgur.com/oJnA9kZ.jpeg"
+  },
+  {
+    "id": 103,
+    "title": "Head of Cadre Development Department",
+    "organization": "Faculty Mentoring Coordinator — Communication and Informatics",
+    "experience_type": "organization",
+    "start_date": "2025-01-01",
+    "end_date": null,
+    "is_current": true,
+    "description": "Managed mentor resources during the mentoring program and ensured smooth coordination and effective mentor distribution.",
+    "technologies": ["Spreadsheet", "Teamwork"],
+    "image_url": "https://i.imgur.com/TSwrJdO.png"
+  }
+],
+
+  "statistics": {
+    "views_count": 127,
+    "profile_complete_percent": 92
+  }
+}
